@@ -71,14 +71,14 @@ body {
 .hole {
   border-radius: 50%;
   background: black;
-  width: 15rem;
-  height: 15rem;
+  width: 13rem;
+  height: 13rem;
   overflow: visible;
 }
 .hole img {
   position: relative;
-  right: 3rem;
-  bottom: 1rem;
+  right: 4rem;
+  bottom: 2rem;
 }
 
 /* Mole feeding */
