@@ -1,2 +1,2 @@
 # Feed a Mole
-### Make a vanilla JS game with Frontendmaster
+### A vanilla JS game made with FrontendMaster
